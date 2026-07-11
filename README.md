@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
