@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1929-concatenation-of-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
