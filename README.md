@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Sliding Window
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
