@@ -1,6 +1,5 @@
 # Leetcode-Solutions
-A collection of LeetCode questions to ace the coding interview! - Created using [SUBHA AI]
-
+A collection of LeetCode questions which I attempted...
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
