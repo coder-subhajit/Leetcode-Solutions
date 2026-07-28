@@ -1,3 +1,4 @@
+//optimized but not optimal.For optimal solution use DNF(Dutch National Flag) algo...
 class Solution {
     public void sortColors(int[] nums) {
      int n=nums.length;
