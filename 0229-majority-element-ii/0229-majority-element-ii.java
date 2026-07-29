@@ -1,19 +1,14 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-     //Brute force
-     List<Integer>ans=new ArrayList<>();
-     //count the frequency
-     for(int i=0;i<nums.length;i++){
-        int count=0;
-        for(int j=0;j<nums.length;j++){
-            if(nums[i]==nums[j]){
-                count++;
-            }
-        } 
-        //check the condition
-        if(count>nums.length/3 && !ans.contains(nums[i])){
-            ans.add(nums[i]);
+     HashMap<Integer,Integer>map=new HashMap<>();
+     for(int num : nums){
+        map.put(num,map.getOrDefault(num,0)+1);
+     }
+     ArrayList<Integer>ans=new ArrayList<>();
+     for(int key : map.keySet()){
+        if(map.get(key)>nums.length/3){
+            ans.add(key);
         }
-     }   return ans;
+     }return ans;
     }
 }
