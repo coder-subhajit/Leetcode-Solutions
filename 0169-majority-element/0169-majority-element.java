@@ -1,3 +1,4 @@
+//Moore's Voting Algo...
 class Solution {
     public int majorityElement(int[] nums) {
         int count=0;
