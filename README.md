@@ -22,6 +22,7 @@ A collection of LeetCode questions which I attempted...
 | [0238-product-of-array-except-self](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions which I attempted...
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
@@ -173,4 +175,8 @@ A collection of LeetCode questions which I attempted...
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
