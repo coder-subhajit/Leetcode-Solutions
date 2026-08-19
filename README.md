@@ -205,4 +205,8 @@ A collection of LeetCode questions which I attempted...
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
