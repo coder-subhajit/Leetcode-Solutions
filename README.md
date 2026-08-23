@@ -6,6 +6,7 @@ A collection of LeetCode questions which I attempted...
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions which I attempted...
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
@@ -139,6 +141,7 @@ A collection of LeetCode questions which I attempted...
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0268-missing-number) |
