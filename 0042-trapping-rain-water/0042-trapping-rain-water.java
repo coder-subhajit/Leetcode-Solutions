@@ -8,13 +8,13 @@ class Solution {
         rmax=Math.max(rmax,height[right]);
 
         if(lmax<rmax){
-            ans+=lmax-height[left];
+            ans+=Math.min(lmax,rmax)-height[left];
             left++;
         }
         else{
-            ans+=rmax-height[right];
+            ans+=Math.min(lmax,rmax)-height[right];
             right--;
         }
-    }   return ans;
+    } return ans;
     }
 }
