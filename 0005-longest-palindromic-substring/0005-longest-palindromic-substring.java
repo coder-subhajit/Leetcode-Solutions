@@ -1,5 +1,5 @@
 class Solution {
-    public String longestPalindrome(String s) {
+    public String longestPalindrome(String s){
     int n=s.length();
     if(n<2){
         return s;
@@ -24,7 +24,7 @@ class Solution {
         while(left>=0&&right<s.length()&&s.charAt(left)==s.charAt(right)){
             left--;
             right++;
-        }
-        return right-left-1;
+    }
+    return right-left-1;
     }
 }
