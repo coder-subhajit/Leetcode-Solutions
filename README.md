@@ -44,6 +44,7 @@ A collection of LeetCode questions which I attempted...
 | [1732-find-the-highest-altitude](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3483-unique-3-digit-even-numbers](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions which I attempted...
 | [0560-subarray-sum-equals-k](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [3483-unique-3-digit-even-numbers](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions which I attempted...
 | [0326-power-of-three](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -224,4 +227,8 @@ A collection of LeetCode questions which I attempted...
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
