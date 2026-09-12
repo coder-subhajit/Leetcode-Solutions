@@ -32,6 +32,7 @@ A collection of LeetCode questions which I attempted...
 | [0628-maximum-product-of-three-numbers](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0904-fruit-into-baskets](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1052-grumpy-bookstore-owner](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1260-shift-2d-grid](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions which I attempted...
 | [0349-intersection-of-two-arrays](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0523-continuous-subarray-sum](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions which I attempted...
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
