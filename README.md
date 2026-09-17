@@ -240,4 +240,12 @@ A collection of LeetCode questions which I attempted...
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
