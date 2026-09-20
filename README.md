@@ -105,6 +105,7 @@ A collection of LeetCode questions which I attempted...
 | [0680-valid-palindrome-ii](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1108-defanging-an-ip-address](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3498-reverse-degree-of-a-string](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions which I attempted...
 | [1260-shift-2d-grid](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
 | ------- |
