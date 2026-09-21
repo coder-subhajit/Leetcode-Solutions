@@ -14,6 +14,7 @@ A collection of LeetCode questions which I attempted...
 | [0035-search-insert-position](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions which I attempted...
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions which I attempted...
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 ## Counting Sort
 |  |
