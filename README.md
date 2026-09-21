@@ -50,6 +50,7 @@ A collection of LeetCode questions which I attempted...
 | [1929-concatenation-of-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3483-unique-3-digit-even-numbers](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions which I attempted...
 | [0042-trapping-rain-water](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [3524-find-x-value-of-array-i](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions which I attempted...
 | [0523-continuous-subarray-sum](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [3524-find-x-value-of-array-i](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Recursion
 |  |
 | ------- |
