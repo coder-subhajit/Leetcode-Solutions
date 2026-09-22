@@ -2,25 +2,20 @@ class Solution {
     public List<List<Integer>> generate(int numRows) {
       List<List<Integer>>ans=new ArrayList<>();
 
-      for(int row=0;row<numRows;row++){
-        //take one temp list
-        List<Integer>temp=new ArrayList<>();
-
-        //first elm
-        temp.add(1);
-        for(int col=1;col<row;col++){
-        
-        //middle elm
-        int val=ans.get(row-1).get(col-1)+ans.get(row-1).get(col);
-        temp.add(val);
-        }
-
-        //last elm
-        if(row>0){
-            temp.add(1);
-        }
-        ans.add(temp);
-      }  
+      for(int i=1;i<=numRows;i++){
+        ans.add(genRow(i));
+      }
       return ans;
+    }
+     public List<Integer>genRow(int row){
+        List<Integer>list=new ArrayList<>();
+
+        int n=1;
+        list.add(1);
+        for(int i=1;i<row;i++){
+            n=n*(row-i)/i;
+            list.add(n);
+        } 
+     return list;
     }
 }
