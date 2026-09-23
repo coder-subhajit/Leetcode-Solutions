@@ -52,6 +52,7 @@ A collection of LeetCode questions which I attempted...
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Prefix Sum
@@ -180,6 +181,7 @@ A collection of LeetCode questions which I attempted...
 | [0523-continuous-subarray-sum](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3524-find-x-value-of-array-i](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Recursion
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions which I attempted...
 | [1260-shift-2d-grid](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
@@ -261,4 +264,12 @@ A collection of LeetCode questions which I attempted...
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
