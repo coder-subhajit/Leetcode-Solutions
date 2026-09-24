@@ -55,6 +55,7 @@ A collection of LeetCode questions which I attempted...
 | [2221-find-triangular-sum-of-an-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions which I attempted...
 | [1512-number-of-good-pairs](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3524-find-x-value-of-array-i](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
 | ------- |
