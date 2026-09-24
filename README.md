@@ -13,6 +13,7 @@ A collection of LeetCode questions which I attempted...
 | [0027-remove-element](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0066-plus-one) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions which I attempted...
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0231-power-of-two) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions which I attempted...
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 ## Counting Sort
