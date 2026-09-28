@@ -35,6 +35,7 @@ A collection of LeetCode questions which I attempted...
 | [0303-range-sum-query-immutable](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions which I attempted...
 | [0004-median-of-two-sorted-arrays](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions which I attempted...
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -288,4 +291,24 @@ A collection of LeetCode questions which I attempted...
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
