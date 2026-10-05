@@ -12,6 +12,7 @@ A collection of LeetCode questions which I attempted...
 | [0026-remove-duplicates-from-sorted-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions which I attempted...
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
