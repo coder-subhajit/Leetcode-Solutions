@@ -13,7 +13,7 @@ class Solution {
         else{
             right=mid;
         }
-    }    
+    }
     return nums[left];
     }
 }
