@@ -186,6 +186,7 @@ A collection of LeetCode questions which I attempted...
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
@@ -332,5 +333,6 @@ A collection of LeetCode questions which I attempted...
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
