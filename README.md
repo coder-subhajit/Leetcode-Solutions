@@ -42,6 +42,7 @@ A collection of LeetCode questions which I attempted...
 | [0485-max-consecutive-ones](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions which I attempted...
 | [0349-intersection-of-two-arrays](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Math
