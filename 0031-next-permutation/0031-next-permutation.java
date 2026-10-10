@@ -17,7 +17,6 @@ class Solution {
             nums[i]=nums[j];
             nums[j]=temp;
         }
-
         //reverse the elm after pivot
         int left=i+1;
         int right=n-1;
