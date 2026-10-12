@@ -70,6 +70,7 @@ A collection of LeetCode questions which I attempted...
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
+| [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions which I attempted...
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions which I attempted...
 | [0119-pascals-triangle-ii](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [3524-find-x-value-of-array-i](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
 ## Two Pointers
 |  |
 | ------- |
