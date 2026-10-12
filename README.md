@@ -69,6 +69,7 @@ A collection of LeetCode questions which I attempted...
 | [3524-find-x-value-of-array-i](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions which I attempted...
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions which I attempted...
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Math
 |  |
 | ------- |
