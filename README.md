@@ -71,6 +71,7 @@ A collection of LeetCode questions which I attempted...
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
+| [4059-lexicographically-largest-power-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/4059-lexicographically-largest-power-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions which I attempted...
 | [0231-power-of-two](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [4059-lexicographically-largest-power-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/4059-lexicographically-largest-power-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions which I attempted...
 | [0011-container-with-most-water](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [4059-lexicographically-largest-power-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/4059-lexicographically-largest-power-array) |
 ## Stack
 |  |
 | ------- |
