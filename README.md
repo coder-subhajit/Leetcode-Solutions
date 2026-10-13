@@ -48,6 +48,7 @@ A collection of LeetCode questions which I attempted...
 | [0643-maximum-average-subarray-i](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1052-grumpy-bookstore-owner](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions which I attempted...
 | [0493-reverse-pairs](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
