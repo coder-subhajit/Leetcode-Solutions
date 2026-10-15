@@ -6,7 +6,7 @@ class Solution {
         char ch=s.charAt(right);
         if(map.containsKey(ch)&&map.get(ch)>=left){
          left=map.get(ch)+1;
-        }
+           }
          map.put(ch,right);
     maxlen=Math.max(maxlen,right-left+1);    
     }
