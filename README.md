@@ -59,6 +59,7 @@ A collection of LeetCode questions which I attempted...
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions which I attempted...
 | [0704-binary-search](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/coder-subhajit/Leetcode-Solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
