@@ -9,7 +9,6 @@ class Solution {
         }
         while(left<right){
             int mid=left+(right-left)/2;
-
             if(canShip(weights,days,mid)){
                 right=mid;
             }
@@ -17,20 +16,20 @@ class Solution {
                 left=mid+1;
             }
         }
-        return left;
+            return left;
     }
 
-    private boolean canShip(int[] weights,int days,int capacity){
-        int dayReq=1;
-        int currLoad=0;
+        private boolean canShip(int[] weights,int days,int capacity){
+            int dayReq=1;
+            int currLoad=0;
 
-        for(int weight : weights){
-            if(currLoad+weight>capacity){
-                dayReq++;
-                currLoad=0;
+            for(int weight : weights){
+                if(currLoad+weight>capacity){
+                    dayReq++;
+                    currLoad=0;
+                }
+                    currLoad+=weight;
             }
-            currLoad+=weight;
+                return dayReq<=days;  
         }
-        return dayReq<=days;
-    }
 }
