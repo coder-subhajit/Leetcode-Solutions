@@ -5,7 +5,6 @@ class Solution {
         int need=target-nums[i];
         if(map.containsKey(need)){//checking if true then return
             return new int[] {map.get(need),i};  
-            
         }
         map.put(nums[i],i);//insert 
     }
